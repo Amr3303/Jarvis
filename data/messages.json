@@ -1,0 +1,302 @@
+{
+  "new-chat-1746667086": [
+    {
+      "id": "welcome",
+      "role": "assistant",
+      "content": "How can I help you with this new conversation?",
+      "timestamp": "04:18 AM"
+    },
+    {
+      "id": "msg-1746667342",
+      "role": "user",
+      "content": "hellooookdfjhgkjfdshghkjfdshgjkhfdjkvjfdhgjhjhfdjvbjdfbvjhbdsfjhghjfdhsgjkhfdjhgjkfdhkjghjkfdhkgjfhdkjghkjfdhkgjhkjsdfhkgjhfdkjshgkjhfdkjhgkjdshellooookdfjhgkjfdshghkjfdshgjkhfdjkvjfdhgjhjhfdjvbjdfbvjhbdsfjhghjfdhsgjkhfdjhgjkfdhkjghjkfdhkgjfhdkjghkjfdhkgjhkjsdfhkgjhfdkjshgkjhfdkjhgkjdshellooookdfjhgkjfdshghkjfdshgjkhfdjkvjfdhgjhjhfdjvbjdfbvjhbdsfjhghjfdhsgjkhfdjhgjkfdhkjghjkfdhkgjfhdkjghkjfdhkgjhkjsdfhkgjhfdkjshgkjhfdkjhgkjdshellooookdfjhgkjfdshghkjfdshgjkhfdjkvjfdhgjhjhfdjvbjdfbvjhbdsfjhghjfdhsgjkhfdjhgjkfdhkjghjkfdhkgjfhdkjghkjfdhkgjhkjsdfhkgjhfdkjshgkjhfdkjhgkjdshellooookdfjhgkjfdshghkjfdshgjkhfdjkvjfdhgjhjhfdjvbjdfbvjhbdsfjhghjfdhsgjkhfdjhgjkfdhkjghjkfdhkgjfhdkjghkjfdhkgjhkjsdfhkgjhfdkjshgkjhfdkjhgkjdshellooookdfjhgkjfdshghkjfdshgjkhfdjkvjfdhgjhjhfdjvbjdfbvjhbdsfjhghjfdhsgjkhfdjhgjkfdhkjghjkfdhkgjfhdkjghkjfdhkgjhkjsdfhkgjhfdkjshgkjhfdkjhgkjdshellooookdfjhgkjfdshghkjfdshgjkhfdjkvjfdhgjhjhfdjvbjdfbvjhbdsfjhghjfdhsgjkhfdjhgjkfdhkjghjkfdhkgjfhdkjghkjfdhkgjhkjsdfhkgjhfdkjshgkjhfdkjhgkjdshellooookdfjhgkjfdshghkjfdshgjkhfdjkvjfdhgjhjhfdjvbjdfbvjhbdsfjhghjfdhsgjkhfdjhgjkfdhkjghjkfdhkgjfhdkjghkjfdhkgjhkjsdfhkgjhfdkjshgkjhfdkjhgkjdshellooookdfjhgkjfdshghkjfdshgjkhfdjkvjfdhgjhjhfdjvbjdfbvjhbdsfjhghjfdhsgjkhfdjhgjkfdhkjghjkfdhkgjfhdkjghkjfdhkgjhkjsdfhkgjhfdkjshgkjhfdkjhgkjdshellooookdfjhgkjfdshghkjfdshgjkhfdjkvjfdhgjhjhfdjvbjdfbvjhbdsfjhghjfdhsgjkhfdjhgjkfdhkjghjkfdhkgjfhdkjghkjfdhkgjhkjsdfhkgjhfdkjshgkjhfdkjhgkjdshellooookdfjhgkjfdshghkjfdshgjkhfdjkvjfdhgjhjhfdjvbjdfbvjhbdsfjhghjfdhsgjkhfdjhgjkfdhkjghjkfdhkgjfhdkjghkjfdhkgjhkjsdfhkgjhfdkjshgkjhfdkjhgkjdshellooookdfjhgkjfdshghkjfdshgjkhfdjkvjfdhgjhjhfdjvbjdfbvjhbdsfjhghjfdhsgjkhfdjhgjkfdhkjghjkfdhkgjfhdkjghkjfdhkgjhkjsdfhkgjhfdkjshgkjhfdkjhgkjdshellooookdfjhgkjfdshghkjfdshgjkhfdjkvjfdhgjhjhfdjvbjdfbvjhbdsfjhghjfdhsgjkhfdjhgjkfdhkjghjkfdhkgjfhdkjghkjfdhkgjhkjsdfhkgjhfdkjshgkjhfdkjhgkjdshellooookdfjhgkjfdshghkjfdshgjkhfdjkvjfdhgjhjhfdjvbjdfbvjhbdsfjhghjfdhsgjkhfdjhgjkfdhkjghjkfdhkgjfhdkjghkjfdhkgjhkjsdfhkgjhfdkjshgkjhfdkjhgkjdshellooookdfjhgkjfdshghkjfdshgjkhfdjkvjfdhgjhjhfdjvbjdfbvjhbdsfjhghjfdhsgjkhfdjhgjkfdhkjghjkfdhkgjfhdkjghkjfdhkgjhkjsdfhkgjhfdkjshgkjhfdkjhgkjds",
+      "timestamp": "04:22 AM"
+    },
+    {
+      "id": "msg-1746667343",
+      "role": "assistant",
+      "content": "Hello! I'm Jarvis, your AI assistant. How can I help you today?",
+      "timestamp": "04:22 AM"
+    }
+  ],
+  "new-chat-1747315952": [
+    {
+      "id": "welcome",
+      "role": "assistant",
+      "content": "How can I help you with this new conversation?",
+      "timestamp": "04:32 PM"
+    },
+    {
+      "id": "msg-1747315955",
+      "role": "user",
+      "content": "hi",
+      "timestamp": "04:32 PM"
+    },
+    {
+      "id": "msg-1747315956",
+      "role": "assistant",
+      "content": "Text generation model would process: hi\n\nThis is a simulated response from the FLAN-UL2 text generation model. In a real implementation, this would use the loaded model to generate a relevant response based on the query.",
+      "timestamp": "04:32 PM"
+    },
+    {
+      "id": "msg-1747323994",
+      "role": "user",
+      "content": "Transcribe the following audio file (provide a path to the audio file): ",
+      "timestamp": "06:46 PM"
+    },
+    {
+      "id": "msg-1747324026",
+      "role": "assistant",
+      "content": "I'm sorry, I encountered an error processing your request. Please try again.",
+      "timestamp": "06:47 PM"
+    }
+  ],
+  "new-chat-1747316885": [
+    {
+      "id": "welcome",
+      "role": "assistant",
+      "content": "How can I help you with this new conversation?",
+      "timestamp": "04:48 PM"
+    },
+    {
+      "id": "msg-1747316959",
+      "role": "user",
+      "content": "hi",
+      "timestamp": "04:49 PM"
+    },
+    {
+      "id": "msg-1747316960",
+      "role": "assistant",
+      "content": "Text generation model could not be loaded. Please check the logs for details.",
+      "timestamp": "04:49 PM"
+    }
+  ],
+  "new-chat-1747317111": [
+    {
+      "id": "welcome",
+      "role": "assistant",
+      "content": "How can I help you with this new conversation?",
+      "timestamp": "04:51 PM"
+    },
+    {
+      "id": "msg-1747317114",
+      "role": "user",
+      "content": "hi",
+      "timestamp": "04:51 PM"
+    },
+    {
+      "id": "msg-1747317115",
+      "role": "assistant",
+      "content": "Text generation model could not be loaded. Please check the logs for details.",
+      "timestamp": "04:51 PM"
+    }
+  ],
+  "new-chat-1747317278": [
+    {
+      "id": "welcome",
+      "role": "assistant",
+      "content": "How can I help you with this new conversation?",
+      "timestamp": "04:54 PM"
+    },
+    {
+      "id": "msg-1747317445",
+      "role": "user",
+      "content": "hi",
+      "timestamp": "04:57 PM"
+    },
+    {
+      "id": "msg-1747317446",
+      "role": "assistant",
+      "content": "Text generation model could not be loaded. Please check the logs for details.",
+      "timestamp": "04:57 PM"
+    }
+  ],
+  "new-chat-1747317828": [
+    {
+      "id": "welcome",
+      "role": "assistant",
+      "content": "How can I help you with this new conversation?",
+      "timestamp": "05:03 PM"
+    },
+    {
+      "id": "msg-1747318086",
+      "role": "user",
+      "content": "hi",
+      "timestamp": "05:08 PM"
+    },
+    {
+      "id": "msg-1747318091",
+      "role": "assistant",
+      "content": "I'm sorry, I encountered an error processing your request. Please try again.",
+      "timestamp": "05:08 PM"
+    }
+  ],
+  "new-chat-1747318570": [
+    {
+      "id": "welcome",
+      "role": "assistant",
+      "content": "How can I help you with this new conversation?",
+      "timestamp": "05:16 PM"
+    },
+    {
+      "id": "msg-1747318591",
+      "role": "user",
+      "content": "hi",
+      "timestamp": "05:16 PM"
+    },
+    {
+      "id": "msg-1747318595",
+      "role": "assistant",
+      "content": "I'm sorry, I encountered an error processing your request. Please try again.",
+      "timestamp": "05:16 PM"
+    }
+  ],
+  "new-chat-1747319227": [
+    {
+      "id": "welcome",
+      "role": "assistant",
+      "content": "How can I help you with this new conversation?",
+      "timestamp": "05:27 PM"
+    },
+    {
+      "id": "msg-1747319231",
+      "role": "user",
+      "content": "hi",
+      "timestamp": "05:27 PM"
+    },
+    {
+      "id": "msg-1747319235",
+      "role": "assistant",
+      "content": "I'm sorry, I encountered an error processing your request. Please try again.",
+      "timestamp": "05:27 PM"
+    }
+  ],
+  "new-chat-1747319355": [
+    {
+      "id": "welcome",
+      "role": "assistant",
+      "content": "How can I help you with this new conversation?",
+      "timestamp": "05:29 PM"
+    },
+    {
+      "id": "msg-1747319374",
+      "role": "user",
+      "content": "how are you model",
+      "timestamp": "05:29 PM"
+    },
+    {
+      "id": "msg-1747319380",
+      "role": "assistant",
+      "content": "I'm sorry, I encountered an error processing your request. Please try again.",
+      "timestamp": "05:29 PM"
+    }
+  ],
+  "new-chat-1747320146": [
+    {
+      "id": "welcome",
+      "role": "assistant",
+      "content": "How can I help you with this new conversation?",
+      "timestamp": "05:42 PM"
+    },
+    {
+      "id": "msg-1747320173",
+      "role": "user",
+      "content": "how are you model",
+      "timestamp": "05:42 PM"
+    },
+    {
+      "id": "msg-1747320177",
+      "role": "assistant",
+      "content": "Error initializing conversation: Chats.create() got an unexpected keyword argument 'messages'",
+      "timestamp": "05:42 PM"
+    }
+  ],
+  "new-chat-1747321010": [
+    {
+      "id": "welcome",
+      "role": "assistant",
+      "content": "How can I help you with this new conversation?",
+      "timestamp": "05:56 PM"
+    },
+    {
+      "id": "msg-1747321058",
+      "role": "user",
+      "content": "i'm tired",
+      "timestamp": "05:57 PM"
+    },
+    {
+      "id": "msg-1747321061",
+      "role": "assistant",
+      "content": "Error generating response: 'TextGenerationHandler' object has no attribute 'chat'",
+      "timestamp": "05:57 PM"
+    }
+  ],
+  "new-chat-1747321159": [
+    {
+      "id": "welcome",
+      "role": "assistant",
+      "content": "How can I help you with this new conversation?",
+      "timestamp": "05:59 PM"
+    },
+    {
+      "id": "msg-1747321166",
+      "role": "user",
+      "content": "i'm tired",
+      "timestamp": "05:59 PM"
+    },
+    {
+      "id": "msg-1747321167",
+      "role": "assistant",
+      "content": "Error generating response: 'NoneType' object has no attribute 'send_message'",
+      "timestamp": "05:59 PM"
+    }
+  ],
+  "new-chat-1747321263": [
+    {
+      "id": "welcome",
+      "role": "assistant",
+      "content": "How can I help you with this new conversation?",
+      "timestamp": "06:01 PM"
+    },
+    {
+      "id": "msg-1747321297",
+      "role": "user",
+      "content": "i'm tired",
+      "timestamp": "06:01 PM"
+    },
+    {
+      "id": "msg-1747321298",
+      "role": "assistant",
+      "content": "Error generating response: 'NoneType' object has no attribute 'send_message'",
+      "timestamp": "06:01 PM"
+    }
+  ],
+  "new-chat-1747321779": [
+    {
+      "id": "welcome",
+      "role": "assistant",
+      "content": "How can I help you with this new conversation?",
+      "timestamp": "06:09 PM"
+    },
+    {
+      "id": "msg-1747321785",
+      "role": "user",
+      "content": "i'm tired",
+      "timestamp": "06:09 PM"
+    },
+    {
+      "id": "msg-1747321789",
+      "role": "assistant",
+      "content": "Text generation model could not be loaded. Please check the logs for details.",
+      "timestamp": "06:09 PM"
+    }
+  ],
+  "new-chat-1747323879": [
+    {
+      "id": "welcome",
+      "role": "assistant",
+      "content": "How can I help you with this new conversation?",
+      "timestamp": "06:44 PM"
+    }
+  ]
+}
